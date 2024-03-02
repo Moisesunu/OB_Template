@@ -2,6 +2,7 @@
 created: ["{{date}} {{time}}"]
 tags: 
 - App/
+update_date: ["{{date}} {{time}}"] 
 ---
 
 
